@@ -4,7 +4,7 @@ Checkout the Domain at: https://bitwheel-c772d.web.app/
 
 This project was worked on by Harnoor Singh Reen, Harsaroop Singh, Anna Xing and Prathamesh Shanbhag for BorderHacks 2020.
 
-This project has won the OneLedger Challenge and was voted 2nd in the people's choice award! An amazing experience
+This project has won the OneLedger Challenge and was voted 2nd in the People's Choice Award at BorderHacks 2020! An amazing experience
 
 # Inspiration
 We wanted to learn some new technologies and the OneLedger Challenge had a huge learning curve for all of us
